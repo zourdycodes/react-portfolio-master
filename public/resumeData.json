@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Mohammed Zourdy",
+    "occupation": "Software Developer @Upwork.inc",
+    "description": "Full Stack Developer and Self-Taught Programmer.",
+    "image": "circle-cropped(1).png",
+    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "contactmessage": "Get in touch with me to receive further details, working together or anything else.",
+    "email": "zhafarmuhammad12@gmail.com",
+    "phone": "+32 800 7668",
+    "address": {
+      "street": "12th Vasvári Pál u",
+      "city": "Pécs",
+      "state": "HU",
+      "zip": "7622"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/14286178/mohammed-zourdy",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/zourdycodes",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/zourdyzh/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nazariy995",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "23 Public High School - Tangerang District",
+        "degree": "High School, Social Science",
+        "graduated": "January 2020",
+        "description": "Graduated with Love 🚀"
+      },
+      {
+        "school": "University of Pécs - Hungary",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "January 2025- Ongoing",
+        "description": "Ongoing Education"
+      }
+    ],
+    "work": [
+      {
+        "company": "Upwork.inc",
+        "title": "JavaScript/Python Developer",
+        "years": "June 2019 - Present",
+        "description": "Helping businesses showing their offer and product to the customers through Awesomeness Technology"
+      },
+      {
+        "company": "Fiverr",
+        "title": "Web Developer",
+        "years": "Oct 2019 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "VueJS",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Docker",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with ReactJS",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon-clone(2).png",
+        "url": "https://clone-74fb5.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Thomas Bjorne - Iceland"
+      },
+      {
+        "text": "That Zourdy must be one of the most Awesomeness developers I've ever met! It is amazing that have been worked with Him. Hey you, you should hire this guy, he may be fresh out of High School and have not much on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Gregg Anthony - Serverless.inc"
+      }
+    ]
+  }
+}
