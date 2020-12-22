@@ -1,13 +1,13 @@
 {
-  "name": "personalportfolio",
-  "version": "0.1.0",
+  "name": "personal-postfolio-mohammed-zourdy",
+  "version": "2.0.1",
   "private": true,
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
-    "react-scripts": "3.4.3"
+    "react-scripts": "^3.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,5 +26,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zourdycodes/react-portfolio-master.git"
+  },
+  "keywords": [
+    "22365"
+  ],
+  "author": "Mohammed Zourdy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zourdycodes/react-portfolio-master/issues"
+  },
+  "homepage": "https://github.com/zourdycodes/react-portfolio-master#readme"
 }
